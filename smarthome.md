@@ -2,7 +2,7 @@
 
 Zigbee is eigenlijk een soort van wifi, maar dan speciaal voor huisautomatisering. Het hoort dus bij de domotica (algemene smart home industrie). 
 
-Hier zijn wat voordelen van Zigbee ten opzichte van Wifi en een Z-Wave:
+**Voordelen van Zigbee/Z-Wave**
 
 1. Alle communicatie is twee-wegs. Dit houdt in dat de apparaten de commando's die aan hen worden gegeven bevestigen. Dit maakt Zigbee heel betrouwbaar, omdat dit ervoor zorgt dat de apparaten nooit een commando missen en kan dus bijvoorbeeld makkelijk gebruikt worden als beveiligingssysteem.
 
@@ -14,7 +14,7 @@ Hier zijn wat voordelen van Zigbee ten opzichte van Wifi en een Z-Wave:
 
 5. Zigbee is gebouwd als mesh-netwerk. Dit houdt in dat apparaten kunnen praten met elkaar om commando's door te geven. Dit zorgt er dus voor dat het bereik en de betrouwbaarheid van het netwerk toeneemt met elk apparaat wat je toevoegt.
 
-Daarnaast heeft Zigbee ook wat nadelen ten opzichte van Wifi en een Z-Wave:
+**Nadelen van Zigbee/Z-Wave**
 
 1. Zigbee heeft niet een heel groot direct bereik. Dit kan deels voorkomen worden door het mesh-netwerk, alleen als je niet een heel groot netwerk hebt dan valt dit weer een beetje weg. Het bereik valt ongeveer rond de 15-20 meter in de open lucht.
 
@@ -25,3 +25,19 @@ Daarnaast heeft Zigbee ook wat nadelen ten opzichte van Wifi en een Z-Wave:
 Zigbee is dus een krachtige, energiezuinige en betaalbare smart home technologie met een klein bereik, maar wel ideaal voor in huis. En kan een hoger bereik halen als je gebruikt maakt van het mesh-netwerk. Het vereist wel een universele smart home hub. 
 
 De Z-Wave is een duurdere versie van de Zigbee met meer bereik en het voordeel van een andere frequentie wat kan zorgen voor extra goed signaal in huis.
+
+# Voor en nadelen van wifi in je smarthome
+
+## **Voordelen**
+---
+1. Redelijk lage prijzen voor producten
+2. Is in de meeste huizen al aanwezig, dus kan je direct aan de slag
+3. snellere gegevensoverdrachtsnelheid dan Zigbee: namelijk 6.9 Gbps voor wifi 6 ipv 250 Kbps
+
+## **Nadelen**
+---
+1. Aangezien veel mensen in een huishouden gebruik maken van wifi, kan een extra smarthome zorgen voor ruis en storingen op het netwerk
+2. Wifi is erg energievretend, vooral sensoren die constant aan staan
+3. Bij veel apparaten zul je een snellere router met grotere capaciteit aan moeten schaffen
+4. Soms moeilijkheden met het doorsturen van gegevens door obstakels
+
